@@ -12,8 +12,8 @@ This repository contains an advanced data science project that integrates SQL qu
 - RStudio
 - SQLite
  ## Libraries Used
- - nycflights13
- - sqldf
+ - Nycflights13
+ - Sqldf
  
 
 ## Project Objectives
