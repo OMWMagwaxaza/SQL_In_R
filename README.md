@@ -11,11 +11,10 @@ This repository contains an advanced data science project that integrates SQL qu
 - R Programming Language
 - RStudio
 - SQLite
-
-  ## Libraries Used
-  - nycflights13
-  - sqldf
-  - dplyr
+ ## Libraries Used
+ - nycflights13
+ - sqldf
+ -  dplyr
 
 ## Project Objectives
 - Q1 : Load the flights dataset and display the first 5 rows using SQL in R.
